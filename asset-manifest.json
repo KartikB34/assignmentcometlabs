@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/assignmentcometlabs/static/css/main.224a73a7.css",
+    "main.js": "/assignmentcometlabs/static/js/main.7d546662.js",
+    "static/media/blog01.png": "/assignmentcometlabs/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/blog03.png": "/assignmentcometlabs/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/assignmentcometlabs/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/assignmentcometlabs/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/assignmentcometlabs/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/tobey.jpg": "/assignmentcometlabs/static/media/tobey.941cbd291159c4a24d68.jpg",
+    "static/media/masteroogway.jpg": "/assignmentcometlabs/static/media/masteroogway.53da7616883a20755a5b.jpg",
+    "static/media/about.jpg": "/assignmentcometlabs/static/media/about.91eb8bc6177c2dbbd47e.jpg",
+    "static/media/people.png": "/assignmentcometlabs/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.svg": "/assignmentcometlabs/static/media/logo.16efaf42dda438e5346df59725d9e6a6.svg",
+    "index.html": "/assignmentcometlabs/index.html",
+    "main.224a73a7.css.map": "/assignmentcometlabs/static/css/main.224a73a7.css.map",
+    "main.7d546662.js.map": "/assignmentcometlabs/static/js/main.7d546662.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.224a73a7.css",
+    "static/js/main.7d546662.js"
+  ]
+}
